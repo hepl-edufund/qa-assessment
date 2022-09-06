@@ -2,7 +2,7 @@
 
 ## What is to be done
 
-1. Setup JEST and write and many tests as possible (will be tested using `npx jest` and the % Lines indicator there will be used)
+1. Setup JEST and write as many tests as possible (will be tested using `npx jest` and the % Lines indicator there will be used)
 2. Manual test our Andorid/iOS app : https://onelink.to/edufund
 3. Manual test our web app : https://app.edufund.in/
 
