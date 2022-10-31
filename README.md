@@ -2,7 +2,7 @@
 
 ## What is to be done
 
-1. Setup JEST or any other testing framework and write as many tests as possible. In case of JEST, we will be testing using `npx jest` and the % Lines indicator there will be used. In case of a testing framework other than JEST please provide the full steps and tell us how to view the code coverage.
+1. Setup JEST or any other testing framework and write as many tests as possible for this sample project. In case of JEST, we will be testing using `npx jest` and the % Lines indicator there will be used. In case of a testing framework other than JEST please provide the full steps and tell us how to view the code coverage.
 2. Manual test our Andorid/iOS app : https://onelink.to/edufund
 3. Manual test our web app : https://app.edufund.in/
 
