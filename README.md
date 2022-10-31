@@ -17,7 +17,7 @@ npm run start / yarn start
 
 ## Deliverables
 
-* ZIP folder or link to forked repository with the JEST tests integrated. Please remember to add any additional steps that need to be followed. In case you have used JEST, please provide the additional steps after ```npm install / yarn install``` and before ```npx jest```. In case of any other testing framework, please provide all the steps.
+* ZIP folder or link to forked repository with the JEST or other tests integrated. Please remember to document any additional steps that need to be followed. For example, in case you have used JEST, please specify if there are steps required other than just ```npm install / yarn install``` and ```npx jest```. In case of any other testing framework, please provide all the steps required to run the tests.
 * Document containing notes from the manual testing on our Mobile app(s) and our WebApp.
 
 ## How to deliver the above?
